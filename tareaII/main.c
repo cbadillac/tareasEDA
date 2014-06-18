@@ -38,7 +38,7 @@ unsigned int h(char *name, int age)
 unsigned int arrayLenght(struct node *array)
 {
 	int i = 0;
-	for(i=0; array[i] > 0; i++){
+	for(i=0; array[i].name != NULL; i++){
 	;;
 	}
 	return i-1;
