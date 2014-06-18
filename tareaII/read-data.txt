@@ -1,0 +1,8 @@
+1	Wayne	Patterson	62
+2	Amy	Morris	53
+3	Todd	Sanders	21
+4	Judy	Sanchez	59
+5	Bruce	Stewart	61
+6	Donna	Bailey	82
+7	Kevin	Diaz	18
+
